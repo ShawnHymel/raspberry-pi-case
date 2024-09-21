@@ -6,10 +6,10 @@ Hardware:
     https://www.amazon.com/dp/B079BN2J8V
 
 Connections:
-    GND - GND (pin 1)
-    VCC - 3.3V (pin 9)
-    SCL - SCL1 (pin 5)
+    VCC - 3.3V (pin 1)
+    GND - GND (pin 9)
     SDA - SDA1 (pin 3)
+    SCL - SCL1 (pin 5)
 
 Before running this code, you must supply the API key from OctoPrint.
 Log into OctoPrint via browser client, click Settings > Application Keys.
