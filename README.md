@@ -20,4 +20,4 @@ Toggles a GPIO pin on the Raspberry Pi to manually control a Canon DSLR shutter.
 
 Case design: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
-Scripts: [0BSD]((https://opensource.org/license/0bsd))
+Scripts: [0BSD](https://opensource.org/license/0bsd)
